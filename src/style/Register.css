@@ -1,0 +1,51 @@
+.registrationForm {
+    max-width: 600px;
+    margin: auto;
+    padding: 60px;
+    background: #5c5757;
+    border-radius: 8px;
+    color: #fff;
+  }
+  
+  .registrationForm h2 {
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 42px;
+  }
+  
+  .registrationForm input[type="text"],
+  .registrationForm input[type="email"],
+  .registrationForm input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 4px;
+    background-color: #ebebeb;
+    color: #3b3b3b;
+  }
+  
+  .registrationForm input[type="text"]::placeholder,
+  .registrationForm input[type="email"]::placeholder,
+  .registrationForm input[type="password"]::placeholder {
+    color: #2b2b2b;
+  }
+  
+  .registrationForm button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background: #62929a;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .registrationForm button:hover {
+    background: #334f53;
+  }
+  
+  .registrationForm button:focus {
+    outline: none;
+  }
