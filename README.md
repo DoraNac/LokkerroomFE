@@ -23,7 +23,6 @@ Registration: Users can register for an account to access the chatroom.
 Login: Existing users can log in to their accounts.
 Chatroom: Authenticated users can view and participate in the chatroom.
 
-
 Author -
 
 [DoraNac] (Dora Nacinovic)
